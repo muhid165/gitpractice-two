@@ -2,6 +2,6 @@
 
 there are many files in this repo
 
-this repo consist of an html and csss file
-this is just the basucs 
-for practicing how VCS (git) and REPO HOSTING (github) works 
+this repo consists of an HTML and CSS file
+this is just the because 
+for practicing how VCS (git) and REPO HOSTING (GitHub) works 
